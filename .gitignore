@@ -1,0 +1,9 @@
+# Never commit secrets
+all_keys.json
+*.db
+*.db-wal
+*.db-shm
+.runtime/
+__pycache__/
+*.pyc
+.wxq/
